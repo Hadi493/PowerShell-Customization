@@ -1,5 +1,8 @@
 ﻿# PowerShell Custom Configuration
 
+![PowerShell Custom Prompt Preview](./images/powershell-preview.png)
+![PowerShell Custom Prompt Preview 2](./images/powershell-preview2.png)
+
 This is my personalized PowerShell configuration with a custom prompt and useful features.
 
 ## Features
